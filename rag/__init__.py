@@ -6,3 +6,5 @@
 # hobby-session-10
 
 # hobby-session-3
+
+# hobby-session-6-1

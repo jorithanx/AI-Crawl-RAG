@@ -179,3 +179,5 @@ if st.session_state.answer:
 # hobby-session-23
 
 # hobby-session-27
+
+# hobby-session-6-2
