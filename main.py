@@ -56,3 +56,5 @@ def ask(question: str):
 # hobby-session-20
 
 # hobby-session-2-1
+
+# hobby-session-9-2
