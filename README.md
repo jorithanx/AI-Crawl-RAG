@@ -114,3 +114,6 @@ This is **true Retrieval-Augmented Generation (RAG)**.
 
 
 <!-- hobby-session-18 -->
+
+
+<!-- hobby-session-24-1 -->
