@@ -37,3 +37,5 @@ def create_vectorstore(chunks, website_url: str, base_dir="vector_db"):
 # hobby-session-1-1
 
 # hobby-session-20-1
+
+# hobby-session-27-1
